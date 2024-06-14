@@ -4,8 +4,7 @@
 - Estou me desenvolvendo na linguagem javascript
 - Ultilizo esse espaço para minha organização dos meus projetos desenvolvidos
 
-  ### Você pode entrar em contato comigo 📧
+  ### Você pode entrar em contato
+  kaiosantanakaiilo@gmail.com
 
- kaiosantanakaiilo@gmail.com
-
- ![]()
+  ![](https://c.tenor.com/aXjsDEqdersAAAAC/tenor.gif)
